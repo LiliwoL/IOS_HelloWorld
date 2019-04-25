@@ -14,6 +14,7 @@
 		23A7ED442272291600EC7B7B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 23A7ED422272291600EC7B7B /* LaunchScreen.storyboard */; };
 		23A7ED4F2272291600EC7B7B /* Hello_WorldTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23A7ED4E2272291600EC7B7B /* Hello_WorldTests.swift */; };
 		23A7ED5A2272291700EC7B7B /* Hello_WorldUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23A7ED592272291700EC7B7B /* Hello_WorldUITests.swift */; };
+		23A7ED6822722F0A00EC7B7B /* apple-touch-icon-120x120.png in Resources */ = {isa = PBXBuildFile; fileRef = 23A7ED6722722F0A00EC7B7B /* apple-touch-icon-120x120.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		23A7ED552272291700EC7B7B /* Hello WorldUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Hello WorldUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		23A7ED592272291700EC7B7B /* Hello_WorldUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hello_WorldUITests.swift; sourceTree = "<group>"; };
 		23A7ED5B2272291700EC7B7B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		23A7ED6722722F0A00EC7B7B /* apple-touch-icon-120x120.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "apple-touch-icon-120x120.png"; path = "../../../../../../Downloads/apple-touch-icon-120x120.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				23A7ED402272291600EC7B7B /* Assets.xcassets */,
 				23A7ED422272291600EC7B7B /* LaunchScreen.storyboard */,
 				23A7ED452272291600EC7B7B /* Info.plist */,
+				23A7ED6722722F0A00EC7B7B /* apple-touch-icon-120x120.png */,
 			);
 			path = "Hello World";
 			sourceTree = "<group>";
@@ -234,6 +237,7 @@
 			files = (
 				23A7ED442272291600EC7B7B /* LaunchScreen.storyboard in Resources */,
 				23A7ED412272291600EC7B7B /* Assets.xcassets in Resources */,
+				23A7ED6822722F0A00EC7B7B /* apple-touch-icon-120x120.png in Resources */,
 				23A7ED3F2272291600EC7B7B /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
